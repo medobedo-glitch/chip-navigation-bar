@@ -13,7 +13,7 @@
         android:layout_marginEnd="@dimen/cnb_space_2"
         android:layout_marginBottom="@dimen/cnb_space_0"
         android:duplicateParentState="true"
-        android:gravity="start"
+        android:gravity="end"
         android:orientation="horizontal"
         android:padding="@dimen/cnb_space_2"
         tools:background="#000"
